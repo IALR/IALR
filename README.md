@@ -24,7 +24,7 @@
   <li>🔬 <b>Currently Learning:</b> Advanced ROS2, FreeRTOS, Deep Learning, FPGA optimization</li>
   <li>⚡ <b>Research Interests:</b> Path planning, motion control, human-robot interaction</li>
   <li>🎯 <b>Career Goal:</b> Lead robotics development in autonomous systems & embedded AI</li>
-  <li style="margin-top: 10px;"><b>Languages:</b> ![Arabic](https://img.shields.io/badge/Arabic-Native-1644A0?style=flat&logoColor=white) ![French](https://img.shields.io/badge/French-Advanced-00979D?style=flat&logoColor=white) ![English](https://img.shields.io/badge/English-Fluent-1644A0?style=flat&logoColor=white)</li>
+  <li style="margin-top: 10px;"><b>Languages:</b> <img src="https://img.shields.io/badge/Arabic-Native-1644A0?style=flat&logoColor=white" alt="Arabic" height="20"/> <img src="https://img.shields.io/badge/French-Advanced-00979D?style=flat&logoColor=white" alt="French" height="20"/> <img src="https://img.shields.io/badge/English-Fluent-1644A0?style=flat&logoColor=white" alt="English" height="20"/></li>
 </ul>
 
 <br/>
